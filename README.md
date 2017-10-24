@@ -5,5 +5,5 @@ Initialization flag portnumber for tcp listening --> -localport=8080 (or whateve
   Default port is :8080
 
 On the Terminal:
-  To establish connection type ":Dial ipaddredd:port" example: ":Dial localhost:8080"
+  To establish connection type ":Dial ipaddres:port" example: ":Dial localhost:8080"
   To quit connection type ":Quit"
